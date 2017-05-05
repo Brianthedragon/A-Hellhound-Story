@@ -1,1 +1,3 @@
-
+<version: 1.00>
+/Updates/latestversion.zip www.brianweelstudio.weebly.com/game-update/a-hellhound-story-updates/hellhound1-update/latest.zip
+<End Of Version>
